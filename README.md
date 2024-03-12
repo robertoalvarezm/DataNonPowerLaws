@@ -14,3 +14,9 @@ M. Huss and P. Holme, ["Currency and commodity metabolites: their identification
 [Download the data](Data/MOMv3.3.txt)
 
 F. A. Smith et al., ["Body mass of late quaternary mammals."](http://dx.doi.org/10.1890/02-9003) Ecology 84, 3403 (2003).
+
+3. The numbers of sightings of birds of different species in the North American Breeding Bird Survey for 2003.
+   
+Link to the data. 
+
+(This links to the 2008 data, but there's a link to a folder that contains the 2003 data.)
