@@ -11,6 +11,6 @@ M. Huss and P. Holme, ["Currency and commodity metabolites: their identification
 
 2. The number of species per genus of "recent" mammals.
    
-Link to the data.
+[Download the data](Data/MOMv3.3.txt)
 
 F. A. Smith et al., ["Body mass of late quaternary mammals."](http://dx.doi.org/10.1890/02-9003) Ecology 84, 3403 (2003).
