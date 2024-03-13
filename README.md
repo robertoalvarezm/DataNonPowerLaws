@@ -18,7 +18,7 @@ F. A. Smith et al., ["Body mass of late quaternary mammals."](http://dx.doi.org/
 
 3. The intensities of earthquakes occurring in California between 1910 and 1992, measured as the maximum amplitude of motion during the quake.
    
-[Download the data](). 
+[Download the data](Data/quakes.txt). 
 
 (Magnitudes on the Gutenberg-Richter scale.)
 
