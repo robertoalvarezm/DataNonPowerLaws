@@ -26,13 +26,28 @@ M. E. J. Newman,["Power laws, Pareto distributions and Zipf's law.](http://arxiv
 
 4. The aggregate net worth in US dollars of the richest individuals in 2024.
    
-[Link to the data.](/Data/Data/Billionaires_Statistics_Dataset_Two_Columns.tsv) 
+[Download the data.](/Data/Data/Billionaires_Statistics_Dataset_Two_Columns.tsv) 
 
 M. E. J. Newman, "Power laws, Pareto distributions and Zipf's law." Contemporary Physics 46, 323 (2005).
 
 
 5. The number of links to websites found in a 1997 web crawl of about 200 million web pages is represented as a simple histogram.
-Download the data.
-A. Broder et al., "Graph structure in the Web." Computer Networks 33, 309 (2000).
+   
+[Download the data.](Data/weblinks.hist)
+
+A. Broder et al., ["Graph structure in the Web."](http://dx.doi.org/10.1016/S1389-1286(00)00083-9) Computer Networks 33, 309 (2000).
+
+6. The number of citations received between publication and June 1997 by scientific papers published in 1981 and listed in the Science Citation Index.
+
+[Data description](https://physics.bu.edu/~redner/projects/citation/index.html)
+
+[Link to the data 1](Data/CitationCount1120TopPhysiciste1981_1997.txt)
+[Link to the data 2](Data/CitationDistributionISICataloguedPapers.txt)
+[Link to the data 3](Data/CitationDistributionISICataloguedPapers.txt)
+
+S. Redner, ["How Popular is Your Paper? An Empirical Study of the Citation Distribution."](http://arxiv.org/abs/cond-mat/9804163) European Physical Journal B 4, 131 (1998).
+
+
+
 
 
