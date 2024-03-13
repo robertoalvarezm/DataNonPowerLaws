@@ -50,6 +50,14 @@ A. Broder et al., ["Graph structure in the Web."](http://dx.doi.org/10.1016/S138
 
 S. Redner, ["How Popular is Your Paper? An Empirical Study of the Citation Distribution."](http://arxiv.org/abs/cond-mat/9804163) European Physical Journal B 4, 131 (1998).
 
+7. Peak gamma-ray intensity of solar flares between 1980 and 1989.
+   
+[Download the data.](Data/flares.txt)
+
+M. E. J. Newman, ["Power laws, Pareto distributions and Zipf's law."](http://arxiv.org/abs/cond-mat/0412004) Contemporary Physics 46, 323 (2005).
+
+
+
 
 
 
