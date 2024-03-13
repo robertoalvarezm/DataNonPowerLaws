@@ -42,8 +42,11 @@ A. Broder et al., ["Graph structure in the Web."](http://dx.doi.org/10.1016/S138
 [Data description](https://physics.bu.edu/~redner/projects/citation/index.html)
 
 [Link to the data 1](Data/CitationCount1120TopPhysiciste1981_1997.txt)
+
 [Link to the data 2](Data/CitationDistributionISICataloguedPapers.txt)
+
 [Link to the data 3](Data/CitationDistributionISICataloguedPapers.txt)
+
 
 S. Redner, ["How Popular is Your Paper? An Empirical Study of the Citation Distribution."](http://arxiv.org/abs/cond-mat/9804163) European Physical Journal B 4, 131 (1998).
 
