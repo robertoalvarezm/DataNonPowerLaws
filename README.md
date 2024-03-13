@@ -23,3 +23,12 @@ F. A. Smith et al., ["Body mass of late quaternary mammals."](http://dx.doi.org/
 (Magnitudes on the Gutenberg-Richter scale.)
 
 M. E. J. Newman,["Power laws, Pareto distributions and Zipf's law.](http://arxiv.org/abs/cond-mat/0412004)" Contemporary Physics 46, 323 (2005).
+
+4. The aggregate net worth in US dollars of the richest individuals in 2024.
+   
+[Link to the data.](/Data/Data/Billionaires_Statistics_Dataset_Two_Columns.tsv) 
+
+M. E. J. Newman, "Power laws, Pareto distributions and Zipf's law." Contemporary Physics 46, 323 (2005).
+
+
+5. 
