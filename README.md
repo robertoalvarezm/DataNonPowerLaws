@@ -2,7 +2,7 @@
 
 Clauset, A., Shalizi, C. R., & Newman, M. E. (2009). [Power-law distributions in empirical data.](https://arxiv.org/pdf/0706.1062.pdf;) SIAM review, 51(4), 661-703.
 
-La DGBD se propuso como una corrección y a la vez una generalización de leyes de potencia.Las leyes de potencia se han usado incluso en condiciones en donde le evidencia no es concluynete. Tomé los datos ,que aun se pueden recuperar,  en dond ela ley de potencia no es un buen modelo.
+La DGBD se propuso como una corrección y a la vez una generalización de leyes de potencia.Las leyes de potencia se han usado incluso en condiciones en donde la evidencia no es concluyente. Tomé los datos ,que aun se pueden recuperar,  en donde la ley de potencia no es un buen modelo.
 
 ## Paquete de R para ajustar distribuciones de ley de potencia
 
