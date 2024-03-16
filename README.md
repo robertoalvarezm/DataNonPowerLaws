@@ -2,7 +2,7 @@
 
 ## Paquete de R para ajustar distribuciones de ley de potencia
 
-(poweRlaw)[https://github.com/csgillespie/poweRlaw] también dsiponible en (CRAN)[https://cran.r-project.org/web/packages/poweRlaw/index.html]
+[poweRlaw](https://github.com/csgillespie/poweRlaw) también dsiponible en [CRAN](https://cran.r-project.org/web/packages/poweRlaw/index.html)
 
 
 
