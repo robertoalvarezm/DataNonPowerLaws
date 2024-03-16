@@ -6,6 +6,8 @@ La DGBD se propuso como una corrección y a la vez una generalización de leyes 
 
 ## Paquete de R para ajustar distribuciones de ley de potencia
 
+El siguiente paquete de R implementa el método descrito en el paper de Clauset
+
 [poweRlaw](https://github.com/csgillespie/poweRlaw) también dsiponible en [CRAN](https://cran.r-project.org/web/packages/poweRlaw/index.html)
 
 
